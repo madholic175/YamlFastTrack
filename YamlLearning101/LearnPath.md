@@ -15,3 +15,7 @@ Using `#` before the next `input will be received as a comment.`
 You can use `>`(Folded style) to removes newline within the string.
 
 You can also use `|`(Literal style) to turn every newline within the strinfg into a literal newline.
+
+**Doesn't** allow mutiline comments, you will need to add a # each time.
+***
+To tag a data as a certain type, simply include `!![typename]` before the value.
