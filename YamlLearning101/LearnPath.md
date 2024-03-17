@@ -18,4 +18,8 @@ You can also use `|`(Literal style) to turn every newline within the strinfg int
 
 **Doesn't** allow mutiline comments, you will need to add a # each time.
 ***
-To tag a data as a certain type, simply include `!![typename]` before the value.
+To tag a data as a certain type, simply include `!![typename]` before the value. example line 14
+
+***
+**Timestamps in Yaml**
+
