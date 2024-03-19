@@ -22,4 +22,7 @@ To tag a data as a certain type, simply include `!![typename]` before the value.
 
 ***
 **Timestamps in Yaml**
-
+* so8601_string,
+* space separated string,
+* no time zone (Z)_string,
+* date (00:00:00Z)_string

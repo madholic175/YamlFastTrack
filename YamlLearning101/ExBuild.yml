@@ -1,0 +1,18 @@
+Devops:
+- OS
+Linux: utilizy for open-source
+Window: more diverse upon most users 
+Apple: based of the unix terminal # cmd
+# Now the different IaC softwares
+Iac:
+- salt stacks
+- puppet
+- chef
+- ansible
+# programing Langauge 
+Reccommended Code:
+- Python
+- Golang
+- Bash
+- Ruby
+Learn: !!Linux Ext4 #Learn this first.

@@ -11,4 +11,7 @@ History: > # Make sure to add comment with hash.
   I went 
   to the
   store. 
-Date of birth value: !!DoB 09/12/1992
+Date of birth value: 09/12/1992 #Giving the Date of birth a set value example.
+# For setting up a timestamo value. Setting the !! ...
+iso8601_string: !!Timestamp 2024-03-19 11:08.22
+Locations: [Hyberabade, NewYork, Berlin] # your able to list sequence inside []\
